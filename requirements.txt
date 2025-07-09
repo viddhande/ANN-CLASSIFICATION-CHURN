@@ -4,4 +4,6 @@ pandas
 scikit-learn
 keras==3.10.0  
 streamlit==1.46.1
+tensorboard
+matplotlib
 
